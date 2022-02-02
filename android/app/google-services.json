@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331574952372",
+    "project_id": "fir-login-40d0a",
+    "storage_bucket": "fir-login-40d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331574952372:android:4877819260064db22eb2e1",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331574952372-v5blgaj9amelite5h3p7c1p3cm5735uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1oo6mA-Jj4wY05KnNvFsErTTkT_j_U5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331574952372-v5blgaj9amelite5h3p7c1p3cm5735uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
